@@ -2,6 +2,7 @@
 simplify management of students, class schedules, payments and all of the administration that a school necessarily needs.
 
 * MySQL - version 8.0.32
+* IntelliJ IDEA Community Edition 2024 1.4
 * Creating Entity-Relationship (ER) diagrams - MySQL Workbench
 * Naming standards 
 * Basic writing and formatting syntax [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
