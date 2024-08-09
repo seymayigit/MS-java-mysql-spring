@@ -7,7 +7,7 @@ simplify management of students, class schedules, payments and all of the admini
 * Naming standards 
 * Basic writing and formatting syntax [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * Dependency for [pom.xml](https://mvnrepository.com/)
-* Frontside : React with vitejs and Redux. nope and npm. React DevTools for debux webside. Bootstrap framework
+* Frontside : React with vitejs and Redux. nope and npm. React DevTools for debux webside. Bootstrap framework. Visual Studio Code for development IDE.  
 
 - Database name exmp `sc_db` 
 - Use underscore_names instead of CamelCase(use in coding) ; attributes name
