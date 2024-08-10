@@ -8,7 +8,7 @@ simplify management of students, class schedules, payments and all of the admini
 * Basic writing and formatting syntax [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * Dependency for [pom.xml](https://mvnrepository.com/)
 * Frontside : React with vitejs and Redux. nope and npm. React DevTools for debux webside. Bootstrap framework. Visual Studio Code for development IDE.
-* Use react with extention that named react snippet. When you want to create component. You can just type short key words and it will creat template automaticlly. 
+* Use react with extention that named react snippet. When you want to create component. You can just type short key words and it will creat template automaticlly. Axios library using such as fetching data from a server, posting data to a server, or handling HTTP requests and responses in general.
 
 - Database name exmp `sc_db` 
 - Use underscore_names instead of CamelCase(use in coding) ; attributes name
