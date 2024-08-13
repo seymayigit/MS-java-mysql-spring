@@ -14,4 +14,17 @@ simplify management of students, class schedules, payments and all of the admini
 - Use underscore_names instead of CamelCase(use in coding) ; attributes name
 - Table names should be singular
 - customer_id ; use full name for IDs. (instead of id)
-
+- 
+These tools and extensions will help you write clean, efficient Java code, and save time in the development process.
+1. # SonarLint
+Purpose: Real-time code quality analysis.
+Focus: Detects bugs, security vulnerabilities, and code smells as you write your code.
+Use Case: Ideal for catching issues early and ensuring that your code adheres to best practices.
+2. # CheckStyle
+Purpose: Enforces coding standards.
+Focus: Ensures consistent code style and formatting according to predefined or custom rules.
+Use Case: Essential for maintaining a uniform coding style across a project or team.
+3. # Lombok
+Purpose: Reduces boilerplate code.
+Focus: Automatically generates common methods (e.g., getters, setters, constructors) using simple annotations.
+Use Case: Useful for simplifying your Java classes and making them cleaner and easier to maintain.
